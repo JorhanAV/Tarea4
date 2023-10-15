@@ -1,0 +1,163 @@
+#acercontainer{
+    margin: 10px;
+    padding: 5px;
+}
+
+#logo{
+    height: 200px;
+}
+
+#table td{
+    color: black;
+    font-weight: bold;
+}
+
+#acermain p{
+    font-size: 15px;
+    text-align: justify;
+}
+
+#acermain h2{
+    font-size: 15px;
+    color: black;
+}
+
+#concienciacontainer{
+    margin: 10px;
+    padding: 5px;
+}
+
+#divmain p {
+    font-size: 15px;
+    text-align: justify;
+}
+
+#divmain ul{
+    margin-left: 5px;
+    font-size: 15px;
+}
+
+#containerimg{
+    text-align: center;
+    display: block;
+}
+
+#containerimg img{
+    margin: 100px auto -1px;
+    width: 50%;
+    height: 30%;
+    
+  
+}
+
+#noticiauno{
+    border-radius: 20px 20px 20px 20px;
+    width: 880px;
+    height: 100px;
+    background-color: #5fcaf5;
+    color: #fff;    
+    text-align: center;
+    margin: 0px 25px 10px;
+    
+}
+
+#noticiauno p{
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+#noticiados{
+    border-radius: 20px 20px 20px 20px;
+    width: 880px;
+    height: 150px;
+    background-color: #71f349;
+    color: #fff;    
+    text-align: center;
+    margin: 15px 25px 10px;
+}
+
+#noticiados p{
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+#galeriaprincipal{
+    text-align: center;
+    margin-left: 300px;
+}
+
+img.manchas{
+    width: 200px;
+    height: 200px;
+}
+
+.tableperros td{
+    width: 100px;
+}
+
+.encabezado{
+    background-color: #fc49c6;
+    color: #fff;
+    padding: 5px;
+}
+
+/*---------*/
+.informacion h1{
+    color: #fc49c6;
+    margin: 0px 20px;
+}
+
+.informacion h3{
+    color: #080808;
+    margin: 5px 20px;
+}
+
+#disponible{
+    text-align: center;
+    width: 900px;
+    height: 50px;
+    margin: 20px auto;
+    background-color: #5fcaf5;
+}
+
+#disponible h1{
+    color: #fff;
+    padding-top: 10px;
+}
+
+.zaguate{
+    width: 900px;
+    
+}
+.tablezaguate{
+    margin: 0px 20px;
+}
+
+.titulo{
+    text-align: center;
+    background-color: #fc49c6;
+    color: #fff;
+    width: 180px;
+    height: 40px;
+    padding: auto;
+}
+
+.lineas{
+    text-align: center;
+}
+.lineascolores{
+    text-align: center;
+    background-color: #c7f1ec;
+}
+
+img.fotosperros{
+    width: 100px;
+    height: 100px;
+}
+
+.final{
+    width: 909px;
+    height: 55px;
+    margin: 0px 20px;
+    background-color: #fc49c6;
+}
